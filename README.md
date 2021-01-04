@@ -28,12 +28,17 @@ I'm a computer engineering student currently working with Laravel. Sometimes I t
 ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 
-### Some frameworks that I worked
+### Some frameworks that I've worked
 
 ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+
+### I also have worked with hardware
+![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![](https://img.shields.io/badge/-FPGA-127A6D?style=for-the-badge&logo=FPGA&logoColor=white)
+
 
 
