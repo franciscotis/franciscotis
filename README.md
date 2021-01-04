@@ -5,7 +5,7 @@
 
 ### About me
 
-I'm a computer engineering student currently working with Laravel. Sometimes I teach basic programming with Python and Java. 
+I'm a computer engineering student from Brazil currently working with Laravel. Sometimes I teach basic programming with Python and Java. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscotis//)](https://www.linkedin.com/in/franciscotis//)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/franciscotis)](https://twitter.com/franciscotis)
@@ -17,7 +17,7 @@ I'm a computer engineering student currently working with Laravel. Sometimes I t
 - ⚡ Fun fact: I don't know how many times i've watched Harry Potter 😅
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franciscotis&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscotis&layout=compact&count_private=true&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscotis&layout=compact&count_private=true&langs_count=8))](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some programming languages that I know
 
