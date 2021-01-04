@@ -28,6 +28,11 @@ I'm a computer engineering student from Brazil currently working with Laravel. S
 ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 
+### I also work with web development using those guys
+
+![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+
 ### Some frameworks that I've worked
 
 ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
