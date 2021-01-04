@@ -14,7 +14,7 @@ I'm a computer engineering student currently working with Laravel. Sometimes I t
 - 🌱 I’m currently learning ElectronJS to create desktop applications
 - 💬 Let's talk about the space and its secrets
 - 📫 How to reach me: franncisco.p@gmail.com
-- ⚡ Fun fact: ### I don't know how many times i've watched Harry Potter 
+- ⚡ Fun fact: I don't know how many times i've watched Harry Potter 😅
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=franciscotis)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscotis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
