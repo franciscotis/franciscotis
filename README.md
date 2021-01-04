@@ -1,6 +1,6 @@
 ### Hello there 👋
 <p align="center">
-![](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="animated" />
 </p>
 ### About me
 I'm a computer engineering student currently working with Laravel. Sometimes I teach basic programming with Python and Java. 
