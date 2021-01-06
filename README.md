@@ -43,7 +43,6 @@ I'm a computer engineering student from Brazil currently working with Laravel. S
 
 ### I also have worked with hardware
 ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![](https://img.shields.io/badge/-FPGA-127A6D?style=for-the-badge&logo=FPGA&logoColor=white)
 
 
 
