@@ -8,7 +8,6 @@
 I'm a computer engineering student from Brazil currently working with Laravel. Sometimes I teach basic programming with Python and Java. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscotis//)](https://www.linkedin.com/in/franciscotis//)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/franciscotis)](https://twitter.com/franciscotis)
 
 
 - 🌱 I’m currently learning ElectronJS to create desktop applications
