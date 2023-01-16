@@ -1,7 +1,7 @@
 ## Welcome to my profile! 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franciscotis//)](https://www.linkedin.com/in/franciscotis//)
 
-### About me
+### About me 🇧🇷
 
 I'm graduated in computer engineering and currently on my Msc in Computer Science.
 
