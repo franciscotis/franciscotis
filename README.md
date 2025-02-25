@@ -3,13 +3,12 @@
 
 ### About me 🇧🇷
 
-I'm graduated in computer engineering and currently on my Msc in Computer Science.
+I'm graduated in Computer Engineering and hold an MSc in Computer Science.
 
-- 🌱 I’m currently improving my skills with Spring Boot to create API's
 - 💬 Let's talk about the space and its secrets
 - 📫 How to reach me: franncisco.p@gmail.com
 - ⚡ Fun fact: I don't know how many times i've watched Harry Potter 😅
-- ☕ Currently working with Java; PL/SQL; AngularJS
+- ☕ Currently working with Java; PL/SQL; React
 
 ### Some programming languages that I know
 
